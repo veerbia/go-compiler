@@ -1,6 +1,6 @@
 # **go-compiler**
 
-Compiler written in Go for the monkey programming language
+Compiler written in Go for the Monkey programming language
 
 ## The Monkey programming language:
 **Monkey language has the following language features:**
