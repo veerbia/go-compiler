@@ -127,7 +127,7 @@ twice(addTwo, 2); // => 6
 
 **Generation Order**
 Now our project is going to take a different path from the Interpreter,
-now se don't have our REPL to see the results in a fast cycle. This is 
+now see don't have our REPL to see the results in a fast cycle. This is 
 the actual Generation order for our compiler.
 ![Generation Order](Generation-order.PNG)
 
