@@ -209,6 +209,6 @@ And now, welcome, first on the stage, the evaluator:
 
 ## References:
 
->Writing a Compiler in Go by Thorsten Ball
+>Writing a Compiler in Go (Thorsten Ball)
 
 > **LICENSED UNDER MIT LICENSE**
